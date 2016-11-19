@@ -25,7 +25,7 @@ SECRET_KEY = 'wy!163a=7_h%_ykc0^dl(ptnxpu^*ghc$o32vyh^e9&q(uqcqq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['sailfordreams.pythonanywhere.com']
 
 
 # Application definition
